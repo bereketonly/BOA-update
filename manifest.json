@@ -1,0 +1,16 @@
+{
+  "name": "Abyssinia Next-Gen UI",
+  "short_name": "BoA Next",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "boa.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
